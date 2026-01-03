@@ -22,10 +22,5 @@ I'm a Front-End Engineer, Graphic Designer, and IT Specialist who currently work
 <p align="left"> <a href="https://twitter.com/ajibolaemmanu31" target="blank"><img src="https://img.shields.io/twitter/follow/Emmanuel?logo=twitter&style=for-the-badge" alt="Emiderex Profile" /></a> </p>
 ---
 
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emiderex&show_icons=true&include_all_commits=true&hide_border=true" alt="Emiderex's GitHub stats" />
-
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emiderex&show_icons=true&locale=en&layout=compact" alt="Emiderex github stats" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emiderex&" alt="Emiderex github stats" /></p>
