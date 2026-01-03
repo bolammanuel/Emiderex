@@ -30,5 +30,3 @@ I'm a Front-End Engineer, Graphic Designer, and IT Specialist who currently work
 
 ---
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emiderex&" alt="Emiderex github stats" /></p>
