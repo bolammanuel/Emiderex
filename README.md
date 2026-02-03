@@ -30,5 +30,6 @@ I'm a Front-End Engineer, Graphic Designer, and IT Specialist who currently work
 
 ---
 
-| <img align="center" src="https://github-readme-stats-si-8b841f8cb1f6.herokuapp.com/?username=bolammanuel=true&include_all_commits=true&hide_border=true&theme=transparent" alt="bolammanuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats-si-8b841f8cb1f6.herokuapp.com/top-langs/?username=bolammanuel&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="bolammanuel's GitHub languages stats" /> |
+| <img align="center" src="https://github-readme-stats-si-8b841f8cb1f6.herokuapp.com/?username=bolammanuel&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="bolammanuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats-si-8b841f8cb1f6.herokuapp.com/top-langs/?username=bolammanuel&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="bolammanuel's GitHub languages stats" /> |
 | ------------- | ------------- |
+
