@@ -30,3 +30,5 @@ I'm a Front-End Engineer, Graphic Designer, and IT Specialist who currently work
 
 ---
 
+| <img align="center" src="https://github-readme-stats-si-8b841f8cb1f6.herokuapp.com/?username=stan015&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Stanley Azi's GitHub stats" /> | <img align="center" src="https://github-readme-stats-si-8b841f8cb1f6.herokuapp.com/top-langs/?username=stan015&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="Stanley Azi's GitHub languages stats" /> |
+| ------------- | ------------- |
